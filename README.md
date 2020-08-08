@@ -1,5 +1,5 @@
 # AiR-Mouse
-![Air Mouse Logo](AiR-Mouse/Asset 4.png)
+![Air Mouse Logo](https://github.com/roeticvampire/AiR-Mouse/blob/master/Asset%204.png)
 ### Summary
  An Android App coupled with a Windows PC Client, which uses the phone's Gyro sensors to control the mouse cursor on the PC
 
@@ -29,8 +29,9 @@ Essentially the original idea for this app was to measure the linear displacemen
 * In case the Android App creates any issues, hit the restart button on the right top of the screen (Below connect button) and thing's should be fine.
 
 ##### Download links
-Pc Client: [Github](https://github.com/roeticvampire/AiR-Mouse/blob/master/AiRMouse%20PC%20Client/MouseMotion/bin/Debug/MouseMotion.exe)
-Phone app:https://github.com/roeticvampire/AiR-Mouse/blob/master/AiRMouse%20Unity%20App/exports/AiRmousev0.2.apk
+Pc Client: [download](https://github.com/roeticvampire/AiR-Mouse/blob/master/AiRMouse%20PC%20Client/MouseMotion/bin/Debug/MouseMotion.exe)
+
+Phone app: [download](https://github.com/roeticvampire/AiR-Mouse/blob/master/AiRMouse%20Unity%20App/exports/AiRmousev0.2.apk)
 
 ##### Disclaimer
 Huge shoutout to a senior whom I'll not name explicitly without his permission, for being a constant source of multi-talented inspiration for me. And a warm thanks to my friend @yogesh-01 for the App Logo, which although did delay the project due to a complete redesign that I had to work on to suit the logo theme, was amazing and I really like how much that improved the visual aesthetics of the App. I'm still not done with the PC Client's UI Work.. and the App might be buggy right now, but those are updates to push for another day. 
