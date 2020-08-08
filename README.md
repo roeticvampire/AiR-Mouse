@@ -14,12 +14,13 @@ Essentially the original idea for this app was to measure the linear displacemen
 * The phone's Gyroscope records the orientation of the phone at each frame, and this is normalised to a unit vector in the direction of gravity. The x and y components of this vector are therefore limited to float values ranging from 0f to 1f.
 * The phone creates a data buffer including processed values for the gyroscope input and the values for flags provided for each button pressed.
 * The Windows Client recieves the data and the mouse cursor is affected by the Client as per the data recieved.
-* The Windows Client hosts a TCP Listener, while the Phone app only hosts a TCP Client which connects to the PC's TCP Listener (At this moment I don't really know why I'm writing this since everyone on GitHub knows about this stuff more than me, but let's just assume I'm documenting my own journey for a better understanding.)
-
+* The Windows Client hosts a TCP Listener, while the Phone app only hosts a TCP Client which connects to the PC's TCP Listener *(At this moment I don't really know why I'm writing this since everyone on GitHub knows about this stuff more than me, but let's just assume I'm documenting my own journey for a better understanding.)*
 
 ### The most unawaited part: How To Try it!
-##### There are a few minor things I'd like to state before you try it out, so we have less issues trying this out, and if this still doesn't work, just remember, "It works on my PC"
-###### (Just Kidding... Not actually)
+**There are a few minor things I'd like to state before you try it out, so we have less issues trying this out, and if this still doesn't work, just remember,
+"It works on my PC"
+(Just Kidding... Not actually)**
+
 * Firstly install and run the PC Client
 * Ensure that your PC and Phone are on the same network, and the network isn't marked Public on your PC
 * Click Start to initialise the Server/TCP Listener
@@ -34,5 +35,5 @@ Pc Client: [download](https://github.com/roeticvampire/AiR-Mouse/blob/master/AiR
 Phone app: [download](https://github.com/roeticvampire/AiR-Mouse/blob/master/AiRMouse%20Unity%20App/exports/AiRmousev0.2.apk)
 
 ##### Disclaimer
-Huge shoutout to a senior whom I'll not name explicitly without his permission, for being a constant source of multi-talented inspiration for me. And a warm thanks to my friend @yogesh-01 for the App Logo, which although did delay the project due to a complete redesign that I had to work on to suit the logo theme, was amazing and I really like how much that improved the visual aesthetics of the App. I'm still not done with the PC Client's UI Work.. and the App might be buggy right now, but those are updates to push for another day. 
+Huge shoutout to a senior whom I'll not name explicitly without his permission, for being a constant source of multi-talented inspiration for me. And a warm thanks to my friend @yogesh-01 for the **App Logo**, which although did delay the project due to a complete redesign that I had to work on to suit the logo theme, was amazing and I really like how much that improved the visual aesthetics of the App. I'm still not done with the PC Client's UI Work.. and the App might be buggy right now, but those are updates to push for another day. 
 If you've really read through all that, You sir deserve a coffee. Cheers to that.
