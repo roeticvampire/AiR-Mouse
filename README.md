@@ -1,5 +1,5 @@
 # AiR-Mouse
-![Air Mouse Logo](https://github.com/roeticvampire/AiR-Mouse/blob/master/AirMousePhone-compressed.jpg)
+![Air Mouse Logo](https://github.com/roeticvampire/AiR-Mouse/blob/master/4491.png)
 ## Summary
  An Android App coupled with a Windows PC Client, which uses the phone's Gyro sensors to control the mouse cursor on the PC
 
