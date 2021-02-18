@@ -1,7 +1,7 @@
 # AiR-Mouse
 ![Air Mouse Logo](https://github.com/roeticvampire/AiR-Mouse/blob/master/4491.png)
 ## Summary
- An Android App coupled with a Windows PC Client, which uses the phone's Gyro sensors to control the mouse cursor on the PC
+ An Android App coupled with a Windows PC Client, which uses the phone's Gyro sensors to control the mouse cursor on the PC.
 
 ## Random Technical Mentions
 The App was made using Unity, which I feel is not as efficient of a solution as Android Studio might be, considering the app's usage of phone's resources. I might port the app to a better version in Android Studio some time later, but for this project I feel Unity suffices the task well.
@@ -19,7 +19,7 @@ Essentially the original idea for this app was to measure the linear displacemen
 ## The most unawaited part: How To Try it!
 **There are a few minor things I'd like to state before you try it out, so we have less issues trying this out, and if this still doesn't work, just remember,
 "It works on my PC"
-(Just Kidding... Not actually)**
+(Pun intented)**
 
 * Firstly install and run the PC Client
 * Ensure that your PC and Phone are on the same network, and the network isn't marked Public on your PC
